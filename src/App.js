@@ -1,15 +1,17 @@
 import Button from 'react-bootstrap/Button';
 import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
-import Header from './Header/Header';
+import Header from './Pages/Header/Header';
+import Home from './Pages/Home/Home/Home';
+
 
 function App() {
   return (
     <div>
-      <h1>welcome</h1>
+      <Header></Header>
       
       <Routes>
-        <Route path="/" element={<Header />} />
+        <Route path="/" element={<Home />} />
         
       </Routes>
     </div>
