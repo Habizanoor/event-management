@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## project name independent-service-provider-Habizanoor
 
-[live site](https://github.com/facebook/create-react-app)
+[live site](https://independent-service-prov-f268e.web.app/)
 ### created
 *varification code
 *firebase authentication
