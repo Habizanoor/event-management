@@ -2,37 +2,43 @@
     {
       "id": "1",
       "price": "$1,054.55",
-      "picture": "http://placehold.it/32x32",
-      "name": "Economy event"
+      "picture": "https://jennalynnphotography.net/wp-content/uploads/2019/03/New-Jersey-Wedding-Photographer-Jenna-Lynn-Photography-Wedding-Brigalias-Ashley26Sal-Bride26Groom-3-1024x683.jpg",
+      "name": "Economy event",
+      "description":"Unlimited photographs. Only take shoot for 3 hours. Only one event shoot. Cenematography & 2 trailer."
     },
     {
       "id": "2",
       "price": "$2,929.09",
-      "picture": "http://placehold.it/32x32",
-      "name": "Platinum event"
+      "picture": "https://trendingtoday.in/wp-content/uploads/2022/04/Ranbir-Alias-Wedding.jpg",
+      "name": "Platinum event",
+      "description":"Unlimited photographs. More than 2 event shoot. 2 cenematography and 5 trailers. "
     },
     {
       "id": "3",
       "price": "$1,578.19",
-      "picture": "http://placehold.it/32x32",
-      "name": "Gold event"
+      "picture": "https://media-exp3.licdn.com/dms/image/C4D1BAQFAC3o2eHS_vA/company-background_10000/0/1565182814457?e=2159024400&v=beta&t=zWT-JPXEhmCFr0L8eTn0LswSz82VWuuJBkRuPAvLN-Q",
+      "name": "Gold event",
+      "description":"Unlimited photographs. will cover the whole event as long as it takes"
     },
     {
       "id": "4",
       "price": "$1,140.28",
-      "picture": "http://placehold.it/32x32",
-      "name": "Economy Birthday Party"
+      "picture": "https://i.dailymail.co.uk/i/pix/2016/03/09/15/3207597800000578-3483958-image-m-25_1457538504694.jpg",
+      "name": "plutinum Birthday Party",
+      "description":"Unlimited photographs and video. Will cover the whole event as long as it takes."
     },
     {
       "id": "5",
       "price": "$1,085.6",
-      "picture": "http://placehold.it/32x32",
-      "name": "Gold Birthday Party"
+      "picture": "https://s167.daydaynews.cc/?url=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F11272230007%2F1000",
+      "name": "Gold Birthday Party",
+      "description":"Unlimited photographs. Will cover the whole event as long as it takes"
     },
     {
       "id": "6",
       "price": "$3,739.04",
-      "picture": "http://placehold.it/32x32",
-      "name": "Plutinum modeling shoot"
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFC7GXkEASKxL1nEnMeheicinswOEo6UXvfA&usqp=CAU",
+      "name": "Plutinum modeling shoot",
+      "description":"Full professional international modeling shoot. We have photographed for vogue and so on."
     }
   ]
