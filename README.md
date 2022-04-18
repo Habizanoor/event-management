@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## project name independent-service-provider-Habizanoor
+
+[Create React App](https://github.com/facebook/create-react-app)
+### created
+-varification code
+-firebase authentication
+-protected page
+-social media authentication
+-reset password
+
+### framework used
+-toastify
+-react router
+-react bootstrap
 ## Available Scripts
 
 In the project directory, you can run:
